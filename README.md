@@ -83,7 +83,7 @@ The following Repo Contains free api keys [https://github.com/public-apis/public
 
 <p align="center">
   <a href="#">
-    <img src="./images/authentication.PNG" width="700" />
+    <img src="./images/authentication.PNG"/>
   </a>
 </p>
 
@@ -100,7 +100,7 @@ The following Repo Contains free api keys [https://github.com/public-apis/public
 
 <p align="center">
   <a href="#">
-    <img src="./images/cicd.PNG" width="700" />
+    <img src="./images/cicd.PNG"/>
   </a>
 </p>
 
@@ -116,7 +116,7 @@ The following Repo Contains free api keys [https://github.com/public-apis/public
 
 <p align="center">
   <a href="#">
-    <img src="./images/communication.PNG" width="700" />
+    <img src="./images/communication.PNG"/>
   </a>
 </p>
 Alternatives: Self hosted Open Source Communication.e.g. Mattermost
@@ -132,7 +132,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 
 <p align="center">
   <a href="#">
-    <img src="./images/ab testing.PNG" width="700" />
+    <img src="./images/ab testing.PNG"/>
   </a>
 </p>
 
@@ -148,7 +148,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 
 <p align="center">
   <a href="#">
-    <img src="./images/database.PNG" width="700" />
+    <img src="./images/database.PNG"/>
   </a>
 </p>
 
@@ -164,7 +164,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 
 <p align="center">
   <a href="#">
-    <img src="./images/documentation.PNG" width="700" />
+    <img src="./images/documentation.PNG"/>
   </a>
 </p>
 
@@ -177,7 +177,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 
 <p align="center">
   <a href="#">
-    <img src="./images/email.PNG" width="700" />
+    <img src="./images/email.PNG"/>
   </a>
 </p>
 
@@ -190,7 +190,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 
 <p align="center">
   <a href="#">
-    <img src="./images/events.PNG" width="700" />
+    <img src="./images/events.PNG"/>
   </a>
 </p>
 
@@ -203,7 +203,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 
 <p align="center">
   <a href="#">
-    <img src="./images/feedback.PNG" width="700" />
+    <img src="./images/feedback.PNG"/>
   </a>
 </p>
 
@@ -216,7 +216,7 @@ Hold Competitions between designers using this website:
 
 <p align="center">
   <a href="#">
-    <img src="./images/figma.PNG" width="700" />
+    <img src="./images/figma.PNG"/>
   </a>
 </p>
 
@@ -230,7 +230,7 @@ Hold Competitions between designers using this website:
 
 <p align="center">
   <a href="#">
-    <img src="./images/file storage.PNG" width="700" />
+    <img src="./images/file storage.PNG"/>
   </a>
 </p>
 
@@ -252,7 +252,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 
 <p align="center">
   <a href="#">
-    <img src="./images/hosting.PNG" width="700" />
+    <img src="./images/hosting.PNG"/>
   </a>
 </p>
 
@@ -266,7 +266,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 
 <p align="center">
   <a href="#">
-    <img src="./images/issue[progress] tracking.PNG" width="700" />
+    <img src="./images/issue[progress] tracking.PNG"/>
   </a>
 </p>
 
@@ -278,7 +278,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 
 <p align="center">
   <a href="#">
-    <img src="./images/version control.PNG" width="700" />
+    <img src="./images/version control.PNG"/>
   </a>
 </p>
 
@@ -291,7 +291,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 *
 <p align="center">
   <a href="#">
-    <img src="./images/sms.PNG" width="700" />
+    <img src="./images/sms.PNG"/>
   </a>
 </p>
 
@@ -310,7 +310,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 
 <p align="center">
   <a href="#">
-    <img src="./images/logging.PNG" width="700" />
+    <img src="./images/logging.PNG"/>
   </a>
 </p>
 
@@ -326,7 +326,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 
 <p align="center">
   <a href="#">
-    <img src="./images/marketing.PNG" width="700" />
+    <img src="./images/marketing.PNG"/>
   </a>
 </p>
 
@@ -340,7 +340,7 @@ Other Options maybe be added depending on use case.e.g. cashapp/venmo/wise/weste
 
 <p align="center">
   <a href="#">
-    <img src="./images/payment processing.PNG" width="700" />
+    <img src="./images/payment processing.PNG"/>
   </a>
 </p>
 
