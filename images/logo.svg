@@ -36,8 +36,8 @@
           flex-direction: column;
           align-items: center;
           justify-content: center;
-          width: 200px;
-          height: 200px;
+          width: 320px;
+          height: 320px;
           font-family:
             system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial,
             sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';

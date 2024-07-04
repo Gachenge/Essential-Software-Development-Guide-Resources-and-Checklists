@@ -2,8 +2,10 @@
   <a href="#">
     <img src="./images/logo.svg" width="320" alt="Essientials Guide">
   </a>
+  <strong>
+   🛣 SOFTWARE DEVELOPMENT GUIDE, CHECKLIST AND RESOURCES. 🛣
+  </strong>
 </p>
-
 <h2 align="center">
   <strong>
    🛣 SOFTWARE DEVELOPMENT GUIDE, CHECKLIST AND RESOURCES. 🛣
