@@ -3,11 +3,6 @@
     <img src="./images/logo.svg" width="300" alt="Essientials Guide">
   </a>
 </p>
-<h2 align="center">
-  <strong>
-   🛣 SOFTWARE DEVELOPMENT GUIDE, CHECKLIST AND RESOURCES. 🛣
-  </strong>
-</h2>
 
 <h3 align="center">
   <strong>
