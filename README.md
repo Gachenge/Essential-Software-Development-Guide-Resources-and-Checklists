@@ -6,13 +6,15 @@
 
 <h2 align="center">
   <strong>
-   SOFTWARE DEVELOPMENT GUIDE, CHECKLIST AND RESOURCES.
+   🛣 SOFTWARE DEVELOPMENT GUIDE, CHECKLIST AND RESOURCES. 🛣
   </strong>
 </h2>
 
-<p align="center">
-  A Comprehensive Dictionary of all the essential guides, resources and tools in every aspect of software development.
-</p>
+<h3 align="center">
+  <strong>
+   A Comprehensive Dictionary of all the essential guides, resources and tools in every aspect of software development.
+  </strong>
+</h3>
 
 <p align="center">
   <a href="#">
@@ -22,7 +24,6 @@
 
 <h2></h2>
 
-<p>&nbsp;</p>
 
 **[⬆ back to top](#title)**
 
@@ -46,6 +47,13 @@ Refer to the following Github Repository`s:
 
 * Devops guide -  i. Devops tutorials [https://github.com/antonputra/tutorials](https://github.com/antonputra/tutorials)
                   ii.  Roadmap [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+
+<p align="center">
+  <a href="#">
+    <img src="./images/DevOps Roadmap.png"/>
+  </a>
+</p>
+
 * Ansible - [Ansible for devops examples](https://github.com/geerlingguy/ansible-for-devops)
 * Terraform- i.[Hashicorp Terraform Resources](https://github.com/shuaibiyy/awesome-tf)
               ii.[AWS elastic kurbenetes starter kit](https://github.com/Devgurusio/terraform-aws-eks-ecommerce)
