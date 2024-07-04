@@ -36,7 +36,7 @@
           flex-direction: column;
           align-items: center;
           justify-content: center;
-          width: 320px;
+          width: 200px;
           height: 200px;
           font-family:
             system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial,
@@ -68,7 +68,7 @@
 
         h1 {
           margin: 24px 0 4px;
-          color: #fffff;
+          color: #ffffff;
           font-weight: bold;
           font-size: 24px;
         }
@@ -228,7 +228,7 @@
             </polygon>
           </svg>
         </div>
-        <h1>MMM</h1>
+        <h1 style="color:#ffffff">MMM</h1>
       </div>
     </div>
   </foreignObject>
