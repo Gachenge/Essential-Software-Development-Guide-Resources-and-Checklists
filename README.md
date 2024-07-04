@@ -4,13 +4,11 @@
   </a>
 </p>
 
----
-
-<p align="center">
+<h2 align="center">
   <strong>
    SOFTWARE DEVELOPMENT GUIDE, CHECKLIST AND RESOURCES.
   </strong>
-</p>
+</h2>
 
 <p align="center">
   A Comprehensive Dictionary of all the essential guides, resources and tools in every aspect of software development.
@@ -25,6 +23,8 @@
 <h2></h2>
 
 <p>&nbsp;</p>
+
+**[⬆ back to top](#title)**
 
 ---
 
