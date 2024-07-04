@@ -1,6 +1,6 @@
 <p align="center" id="title">
   <a href="#">
-    <img src="./images/logo.svg" width="300" alt="Essientials Guide">
+    <img src="./images/logo.svg" width="" alt="Essientials Guide">
   </a>
 </p>
 
