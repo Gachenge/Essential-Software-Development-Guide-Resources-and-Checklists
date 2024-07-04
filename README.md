@@ -47,17 +47,16 @@ Refer to the following Github Repository`s:
 
 * Devops guide -  i. Devops tutorials [https://github.com/antonputra/tutorials](https://github.com/antonputra/tutorials)
                   ii.  Roadmap [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+* Ansible - [Ansible for devops examples](https://github.com/geerlingguy/ansible-for-devops)
+* Terraform- i.[Hashicorp Terraform Resources](https://github.com/shuaibiyy/awesome-tf)
+              ii.[AWS elastic kurbenetes starter kit](https://github.com/Devgurusio/terraform-aws-eks-ecommerce)
+* Kubesphere - [Platform tailored for kurbenetes multi-cloud, data center and edge management.](https://github.com/kubesphere/kubesphere)
 
 <p align="center">
   <a href="#">
     <img src="./images/DevOps Roadmap.png"/>
   </a>
 </p>
-
-* Ansible - [Ansible for devops examples](https://github.com/geerlingguy/ansible-for-devops)
-* Terraform- i.[Hashicorp Terraform Resources](https://github.com/shuaibiyy/awesome-tf)
-              ii.[AWS elastic kurbenetes starter kit](https://github.com/Devgurusio/terraform-aws-eks-ecommerce)
-* Kubesphere - [Platform tailored for kurbenetes multi-cloud, data center and edge management.](https://github.com/kubesphere/kubesphere)
 
 
 ### III. DevSecOps
