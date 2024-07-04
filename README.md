@@ -133,7 +133,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 
 <p align="center">
   <a href="#">
-    <img src="./images/ab testing.PNG"/>
+    <img src="./images/search.PNG"/>
   </a>
 </p>
 
@@ -305,7 +305,6 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 * Elastic Search [ELK]
 * Splunk
 * New Relic
-* Kafka
 * Loki for logs aggregation
 * Promtail for log fetching and labelling
 
