@@ -312,18 +312,23 @@ Other Options maybe be added depending on use case.e.g. cashapp/venmo/wise/weste
 
 # Programming Standards and Error/Bug Prevention Techniques. [ Use Linters, Automated Tests to enforce them.]
 
+**Notes:** To be improved
+
 Best practices that developers adhere to when writing code to ensure consistency, readability, and maintainability.
-      * Indentation and Formatting: ? Use consistent indentation and formatting.
-      * Comments: ? Include clear and concise comments. 
-      * Naming Conventions: ? Use descriptive and consistent names. 
-      * Function Length: ? Keep functions short and focused. 
-      * Error Handling: ? Implement proper error handling with meaningful messages. 
-      * Code Duplication: ? Minimize code duplication; refactor when necessary. 
-      * Testing: ? Write and maintain unit tests. 
-      * Performance: ? Optimize code for performance when needed.
+
+* Indentation and Formatting:  Use consistent indentation and formatting.
+* Comments:  Include clear and concise comments. 
+* Naming Conventions:  Use descriptive and consistent names. 
+* Function Length:  Keep functions short and focused. 
+* Error Handling:  Implement proper error handling with meaningful messages. 
+* Code Duplication:  Minimize code duplication; refactor when necessary. 
+* Testing:  Write and maintain unit tests. 
+* Performance:  Optimize code for performance when needed.
+
 Refer to this GitHub repo for better explanation [https://github.com/Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) , JavaScript guidelines [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript) 
 
-Links to tools used to enforce this:
+Links to tools used to enforce these standards:
+
 **Notes** To add
 
 
