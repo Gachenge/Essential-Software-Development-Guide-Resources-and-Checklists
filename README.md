@@ -26,11 +26,6 @@
 
 # Guide to self hosting, Devops and DevSec Ops
 
-<div>
-  <img src="./images/miro.svg" style="width: 100%;" alt="Click to view Miro Board">
-</div>
-
-
 ### I. Self-Hosting Guide.
 
 Tools to use: 
