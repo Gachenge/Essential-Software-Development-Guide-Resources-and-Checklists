@@ -1,6 +1,6 @@
 <p align="center" id="title">
   <a href="#">
-    <img src="./images/logo.svg" width="400" alt="Essientials Guide">
+    <img src="./images/logo.svg" width="350" alt="Essientials Guide">
   </a>
 </p>
 
@@ -25,14 +25,17 @@
 
 # Self-Hosting Guide, Devops & DevSec Ops and A guide to Security in development.
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK1EIRhs=/?moveToViewport=-1676,-1320,3165,2547&embedId=124581498358" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 ### I. Self-Hosting Guide.
 
 Tools to use: 
 * i. [Coolify](https://github.com/coollabsio/coolify) – Open Source alternative to Heroku, Netlify, Render and Vercel that make deployment easy and simple.
 * ii. [Dokploy](https://github.com/Dokploy/dokploy) – Another Open Source alternative to Heroku, Netlify, Render and Vercel that make deployment easy and simple.
 * iii. Hetzner for VPS/ KVM VPS – As of 4th July 2024 Hetzner is the best source for quality VPS because of its good mix of affordability and value meaning it has many server options and you can get what you need for a relatively good price.
-Depending on the use case, for production grade deployments (non CPU and Traffic/bandwidth heavy applications) buy the 40-50 dollar VDS in which you can host 2-3 applications like this. For other CPU, Traffic/Bandwidth heavy applications buy the 100-500 dollar VDS. Changes can be made when you reach a point where you both need the capacity and you have the resources for it in which you can just pay for really expensive 500-1000 dollar VDS and consolidate all your applications to just that one VDS.
-For personal/hobby use the 5-10 dollar VPS are good.
+Depending on the use case, for production grade deployments (non CPU and Traffic/bandwidth heavy applications) buy the 40-50 dollar VDS in which you can host 2-3 applications like this. 
+* For other CPU, Traffic/Bandwidth heavy applications buy the 100-500 dollar VDS. Changes can be made when you reach a point where you both need the capacity and you have the resources for it in which you can just pay for really expensive 500-1000 dollar VDS and consolidate all your applications to just that one VDS.
+* For personal/hobby use the 5-10 dollar VPS are good.
 		iv. Various Linux distros and open source cloud systems like Casa OS can be installed.
 
 ### II. Devops Guide.
@@ -46,12 +49,7 @@ Refer to the following Github Repository`s:
               ii.[AWS elastic kurbenetes starter kit](https://github.com/Devgurusio/terraform-aws-eks-ecommerce)
 * Kubesphere - [Platform tailored for kurbenetes multi-cloud, data center and edge management.](https://github.com/kubesphere/kubesphere)
 
-<p align="center">
-  <a href="#">
-    <img src="./images/DevOps Roadmap.png"/>
-  </a>
-</p>
-
+[Visual Devops Roadmap](./images/DevOps%20Roadmap.png)
 
 ### III. DevSecOps
 
@@ -65,9 +63,12 @@ Refer to this Guide: [https://github.com/sottlmarek/DevSecOps](https://github.co
 ### I. Testing Tools.
 
 **Notes:** To be Updated
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585672&cot=14)
 
 ### II. API Keys.
 **Notes:** To be Updated
+
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585674&cot=14)
 
 * Unkey
 
@@ -82,11 +83,7 @@ The following Repo Contains free api keys [https://github.com/public-apis/public
 * Clerk
 * Firebase
 
-<p align="center">
-  <a href="#">
-    <img src="./images/authentication.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585624&cot=14)
 
 
 ### IV. CI/CD.
@@ -99,11 +96,7 @@ The following Repo Contains free api keys [https://github.com/public-apis/public
 
  **Notes:** Alternatives: CI/CD tools provided by Cloud Providers e.g. AWS & Azure devops or you can build your own if it’s necessary and you have the manpower, time and money for it.
 
-<p align="center">
-  <a href="#">
-    <img src="./images/cicd.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585718&cot=14)
 
 
 ### V. Communication
@@ -114,12 +107,8 @@ The following Repo Contains free api keys [https://github.com/public-apis/public
 * Discord
 * Zoom
 * Open source Self Hostable & Customizable Versions can be found.
+[Preview this on Miro board](.https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585710&cot=14)
 
-<p align="center">
-  <a href="#">
-    <img src="./images/communication.PNG"/>
-  </a>
-</p>
 Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 
 
@@ -131,11 +120,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 * LaunchDarkly
 * Open source Self Hostable & Customizable Versions can be found.
 
-<p align="center">
-  <a href="#">
-    <img src="./images/search.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585696&cot=14)
 
 
 ### VII. Database
@@ -147,11 +132,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 * PlanetScale
 * Firebase
 
-<p align="center">
-  <a href="#">
-    <img src="./images/database.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585626&cot=14)
 
 
 ### VIII. Documentation.
@@ -163,12 +144,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 * Nextra
 * Open source Self Hostable & Customizable Versions can be found.
 
-<p align="center">
-  <a href="#">
-    <img src="./images/documentation.PNG"/>
-  </a>
-</p>
-
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585702&cot=14)
 
 ### IX. Email.
 
@@ -176,12 +152,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 * Sendgrid
 * Mailgun
 
-<p align="center">
-  <a href="#">
-    <img src="./images/email.PNG"/>
-  </a>
-</p>
-
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585634&cot=14)
 
 ### X. Events.
 
@@ -189,11 +160,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 * Kafka
 * AWS WebSockets
 
-<p align="center">
-  <a href="#">
-    <img src="./images/events.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585614&cot=14)
 
 ### XI. Feedback.
 
@@ -202,11 +169,7 @@ Alternatives: Self hosted Open Source Communication.e.g. Mattermost
 * Canny
 * Open source Self Hostable & Customizable Versions can be found.
 
-<p align="center">
-  <a href="#">
-    <img src="./images/feedback.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585738&cot=14)
 
 ### XII. Design.
 
@@ -215,11 +178,7 @@ Hold Competitions between designers using this website:
 
 * Figma
 
-<p align="center">
-  <a href="#">
-    <img src="./images/figma.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585762&cot=14)
 
 
 ### XIII. File Storage.
@@ -229,11 +188,7 @@ Hold Competitions between designers using this website:
 * Uploadthing
 * Self Host using a VPS and NextCloud
 
-<p align="center">
-  <a href="#">
-    <img src="./images/file storage.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585682&cot=14)
 
 ### XIX. Hosting.
 
@@ -251,11 +206,7 @@ For cloud use AWS free tier or serverless option.
 For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan. 
  **Notes:** Buy from Hetzner Auctions for production grade releases & 5-10 dollar Hetzner VPS for small personal projects
 
-<p align="center">
-  <a href="#">
-    <img src="./images/hosting.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585616&cot=14)
 
 
 
@@ -265,11 +216,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 * Jira
 * Trello
 
-<p align="center">
-  <a href="#">
-    <img src="./images/issue[progress] tracking.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585704&cot=14)
 
 ### XVI. Version Control
 
@@ -277,11 +224,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 * SVN
 * Mercurial
 
-<p align="center">
-  <a href="#">
-    <img src="./images/version control.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585716&cot=14)
 
 
 ### XVII. SMS
@@ -290,11 +233,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 * Twilio
 * Local Providers
 *
-<p align="center">
-  <a href="#">
-    <img src="./images/sms.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585658&cot=14)
 
 
 ### XVIII. Logging.
@@ -308,11 +247,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 * Loki for logs aggregation
 * Promtail for log fetching and labelling
 
-<p align="center">
-  <a href="#">
-    <img src="./images/logging.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585618&cot=14)
 
 ### XIX. Marketing.
 
@@ -324,11 +259,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 * Social media Ads - Facebook, Instagram, Twitter, Linked in, WhataApp, Reddit.
 * Search Engine Ads - Google, Google Maps
 
-<p align="center">
-  <a href="#">
-    <img src="./images/marketing.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585744&cot=14)
 
 
 ### XX. Payment Processing.
@@ -338,11 +269,7 @@ For VPS and KVM VPS use Hetzner or Hostinger $60-dollar plan.
 
 Other Options maybe be added depending on use case.e.g. cashapp/venmo/wise/western union/MoneyGram.
 
-<p align="center">
-  <a href="#">
-    <img src="./images/payment processing.PNG"/>
-  </a>
-</p>
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593981585690&cot=14)
 
 
 
@@ -351,11 +278,15 @@ Other Options maybe be added depending on use case.e.g. cashapp/venmo/wise/weste
 * Prometheus for application monitoring
 * Net Data for Server Monitoring
 
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593982451714&cot=14)
+
 ### XXII. Dashboards
 
 * Grafana
 * Tremor
 * NetData
+
+[Preview this on Miro board](https://miro.com/app/board/uXjVK1EIRhs=/?moveToWidget=3458764593982451370&cot=14)
 
 ### XXIII. AI and Machine Learning
 
