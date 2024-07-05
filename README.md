@@ -24,17 +24,12 @@
 
 ---
 
-[[_TOC_]]
-
-**[⬆ back to top](#title)**
-
-
----
-
 # Self-Hosting Guide, Devops & DevSec Ops and A guide to Security in development.
 
-[![IMAGE ALT TEXT HERE]("https://miro.com/app/live-embed/uXjVK1EIRhs=/?moveToViewport=-1676,-1320,3165,2547&embedId=124581498358)]("https://miro.com/app/live-embed/uXjVK1EIRhs=/?moveToViewport=-1676,-1320,3165,2547&embedId=124581498358)
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK1EIRhs=/?moveToViewport=-1676,-1320,3165,2547&embedId=124581498358" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<div style="width: 100%;">
+  <img src="./images/miro.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 
 ### I. Self-Hosting Guide.
 
