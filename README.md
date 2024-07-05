@@ -24,10 +24,10 @@
 
 ---
 
-# Self-Hosting Guide, Devops & DevSec Ops and A guide to Security in development.
+# Guide to self hosting, Devops and DevSec Ops
 
-<div style="width: 100%;">
-  <img src="./images/miro.svg" style="width: 100%;" alt="Click to see the source">
+<div>
+  <img src="./images/miro.svg" style="width: 100%;" alt="Click to view Miro Board">
 </div>
 
 
