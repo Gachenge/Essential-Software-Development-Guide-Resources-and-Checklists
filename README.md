@@ -1,23 +1,24 @@
-<p align="center" id="title">
-  <a href="#">
-    <img src="./images/logo.svg" width="350" alt="Essientials Guide">
-  </a>
-</p>
+<!-- <p align="center" id="title"><a href="#"><img src="./images/logo.svg" width="350" alt="Essientials Guide"></a></p> -->
+
+<h1 align="center">
+  <strong>
+   🛣 SOFTWARE DEVELOPMENT GUIDE, CHECKLIST AND RESOURCES. 🛣 
+  </strong>
+</h1>
 
 <h3 align="center">
   <strong>
-   A Comprehensive Dictionary of all the essential guides, resources and tools in every aspect of software development.
+    A Comprehensive Dictionary of all the essential guides, resources and tools in every aspect of software development. 
   </strong>
 </h3>
+
 
 <p align="center">
   <a href="#">
     <img alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif" width="700" />
   </a>
 </p>
-
 <h2></h2>
-
 
 **[⬆ back to top](#title)**
 

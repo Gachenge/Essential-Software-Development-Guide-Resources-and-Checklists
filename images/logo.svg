@@ -81,7 +81,7 @@
 
       </style>
       <div class="container">
-        <!-- <div class="logo">
+        <div class="logo">
           <div class="backdrop"></div>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
             <polygon id="p1">
@@ -227,7 +227,7 @@
               />
             </polygon>
           </svg>
-        </div> -->
+        </div>
         <h1 align="center">
           <strong>
           🛣 SOFTWARE DEVELOPMENT GUIDE, CHECKLIST AND RESOURCES. 🛣
