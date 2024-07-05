@@ -26,7 +26,9 @@
 
 # Self-Hosting Guide, Devops & DevSec Ops and A guide to Security in development.
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK1EIRhs=/?moveToViewport=-1676,-1320,3165,2547&embedId=124581498358" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<div>
+ <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK1EIRhs=/?moveToViewport=-1676,-1320,3165,2547&embedId=124581498358" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+</div>
 
 ### I. Self-Hosting Guide.
 
